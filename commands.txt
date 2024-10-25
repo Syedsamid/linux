@@ -1,1 +1,5 @@
 Linux commands
+cal - displays calendar of the current month.
+sudo passwd - prompts you to enter the current password, followed by a new password.
+ls - list all directories and files in the directory.
+whoami -  shows you the WSL user.
